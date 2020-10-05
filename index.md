@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<img src="https://avatars2.githubusercontent.com/u/72030849?s=400&u=a245885d6ff65d1ec255f22129bcefc9ed0607ef&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/mim-saharkolyayi/saharkolyayi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###About Me 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Sahar Keliai and I am learning web design languages and I am very interested in this job.
+I am studying at Bayam Noor University and my major is computer engineering
+I have decided to expand my knowledge in the field of computer software. 
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Name: Sahar
+- Last name: Kolyayi
+- Date of birth: 1399/02/18
+- Job status: vacant
+- Marital status: single
 
-```markdown
-Syntax highlighted code block
+### skiiis
 
-# Header 1
-## Header 2
-### Header 3
++ javascript
++ HTML
++ CSS
++ Network+
 
-- Bulleted
-- List
+### Language
 
-1. Numbered
-2. List
+- Persian: Completely fluent
+- English : Weak
 
-**Bold** and _Italic_ and `Code` text
+### Licenses & Certifications
 
-[Link](url) and ![Image](src)
-```
+- Web design HTML : self study
+- Web design CSS : self study
+- Web design javascript : self study
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Work experience
 
-### Jekyll Themes
+- For 1 year consultant and secretary of real estate database
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mim-saharkolyayi/saharkolyayi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### projects
 
-### Support or Contact
+nothing
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other accounts
+
+nothing
