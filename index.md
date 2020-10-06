@@ -10,7 +10,7 @@ I have decided to expand my knowledge in the field of computer software.
 
 - Name: Sahar
 - Last name: Kolyayi
-- Date of birth: 1399/02/18
+- Date of birth: 1999/02/18
 - Job status: vacant
 - Marital status: single
 
